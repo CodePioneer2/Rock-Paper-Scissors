@@ -1,10 +1,3 @@
-/* 
-1. Get Computer choice
-2. Get Human choice
-3. Play round
-4. Play game 5 rounds 
-*/
-
 const choices = ['rock', 'paper', 'scissors'];
 
 function getComputerChoice() {
