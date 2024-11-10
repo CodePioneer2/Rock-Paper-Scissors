@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: blue;
+    font-size: 2rem;
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+button{
+    margin-top: 100px;
+    padding: 5px 15px;
+    border: none;
+    outline: none;
+    border-radius: 7px;
+    font-size: 2rem;
+
+}
+button:hover{
+    background-color: gray;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    border: 3px solid white;
+    border-radius: 15px;
+    width: 50%;
+    height: 200px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: salmon;
+}
+hr {
+    color: black;
+    outline: none;
+    border: 3px dotted black;
+    margin: 20px 0;
+}
